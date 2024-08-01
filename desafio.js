@@ -1,5 +1,5 @@
     let NomeDoHeroi = "yErickz"
-    let XpDoPersonagem = 1
+    let XpDoPersonagem = 5000
 
     let nivelDoHeroi
 
@@ -27,4 +27,4 @@
         nivelDoHeroi = "Radiante"
     }
     
-    console.log ("O Herói de nome " + NomeDoHeroi + "está no nível de " + nivelDoHeroi)
+    console.log ("O Herói de nome " + NomeDoHeroi + "  está no nível de " + nivelDoHeroi)
