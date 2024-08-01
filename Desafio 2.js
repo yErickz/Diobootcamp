@@ -53,3 +53,5 @@ for(i = 0; i < 9 ; i++){
     //Aumento de Derrotas
     player1Data[2] += 10
 }
+
+//teste
