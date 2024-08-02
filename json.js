@@ -4,8 +4,8 @@ let invoice = {
 	name: "Eric",
     age: 19,
     products: {
-    	0: ["mouse 2xwm", 29.90],
-        1: ["Teclado mecânico", 129.99],
+    	0: ["mouse 2xwm", "29.90"],
+        1: ["Teclado mecânico", "129.99"],
         2: ["placa de video", "899.99"],
         3: ["monitor 27 polegadas", "12000.90"],
         4: ["Gabinete redragon", "490,99"]
